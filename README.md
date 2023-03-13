@@ -1,6 +1,6 @@
 # Week 8
 
-# install docker with shell script
+# install docker with shell script on Ubuntu 22.04
 
 Create a new file named install-git-docker.sh using the command 
 
@@ -40,8 +40,10 @@ sudo systemctl enable docker-compose.service
 
 ```
 
-# Save the file by pressing Ctrl+X, then Y, then Enter.
-
+# Save the file by pressing 
+```
+Ctrl+X, then Y, then Enter.
+```
 # Make the file executable using the command 
 ```
 chmod +x install-git-docker.sh.
