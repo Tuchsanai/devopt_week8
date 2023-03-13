@@ -11,7 +11,7 @@ or any other text editor you prefer.
 
 # Add the following lines to the file:
     
-    ```
+```
 #!/bin/bash
 
 # Update the package list
@@ -38,7 +38,7 @@ sudo systemctl enable docker.service
 # Enable Docker Compose
 sudo systemctl enable docker-compose.service
 
-    ```
+```
 
 # Save the file by pressing Ctrl+X, then Y, then Enter.
 
